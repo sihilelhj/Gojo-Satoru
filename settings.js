@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'sihilel-nova'
 global.author = '🐦sihilel Boy Nexuse'
 global.sessionName = 'session'
-global.prefa = ['','!'💮'.','🍃','𝐫','🍫']
+global.prefa = ['','!'💮'.','🍃','🌼','🍫']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
